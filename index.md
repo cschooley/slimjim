@@ -10,7 +10,7 @@ a website you don't have to patch
   * static hosting enviornments
   * you like editing your web pages in markdown/vim
 * All content is stored in markdown files (*.md) in the web directories
-* # is used for URL base:
+* Document url links begin with ``#``:
     * http://mysite.com/#mypage -> HTTPROOT/mypage.md
     * http://mysite.com/#mypage/subdir -> HTTPROOT/subdir/index.md
 * Directories my be nested
